@@ -39,4 +39,4 @@ This setup provides a benchmark for analyzing the accuracy and stability of nume
    :maxdepth: 2
    :caption: Contents:
 
-   CSSL
+   ../CSSL/CSSL

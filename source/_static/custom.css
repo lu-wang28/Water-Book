@@ -1,0 +1,16 @@
+/* 让页面内容区域铺满全屏宽度 */
+.wy-nav-content {
+    max-width: 100% !important;
+    width: 100% !important;
+    padding: 20px;
+}
+
+/* 调整导航栏宽度 */
+.wy-nav-side {
+    width: 250px;
+}
+
+/* 防止内容和导航栏重叠 */
+.rst-content {
+    margin-left: 270px;
+}

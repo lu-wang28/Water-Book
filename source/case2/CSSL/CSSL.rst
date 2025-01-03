@@ -10,13 +10,13 @@ Simulation Output
 
 The figure below shows the result of the CSSL simulation for pollutant diffusion over time.
 
-.. figure:: ./images/CSSL1.svg
+.. figure:: ../images/CSSL1.svg
    :alt: CSSL Simulation Output
    :align: center
 
    The Final Distributions of the Gaussian Field Transport Problem
 
-.. figure:: ./images/CSSL2.svg
+.. figure:: ../images/CSSL2.svg
    :alt: CSSL Simulation Output
    :align: center
 
