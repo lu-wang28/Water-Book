@@ -15,7 +15,7 @@ Water-Book documentation
    :maxdepth: 1
 
    ./case1/index
-   ./case2/case2
+   ./case2/index
 
 .. Indices and tables
 .. ==================
